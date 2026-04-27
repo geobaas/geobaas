@@ -99,7 +99,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GeovannyBaas&theme=tokyonight_duo" alt="GeovannyBaas" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geobaas&theme=tokyonight_duo" alt="geobaas" /></p>
 
 </details>
   
@@ -109,8 +109,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="GeovannyBaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GeovannyBaas&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeovannyBaas&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="GeovannyBaas" height="230px"/>
+	    <img alt="geobaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geobaas&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geobaas&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="geobaas" height="230px"/>
 </p>
 </details>
 
@@ -118,7 +118,7 @@
 
 ----
 	
-[![GeovannyBaas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GeovannyBaas&theme=github)](https://github.com/GeovannyBaas/github-readme-activity-graph)
+[![geobaas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=geobaas&theme=github)](https://github.com/geobaas/github-readme-activity-graph)
 
 </details>
 
