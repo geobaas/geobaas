@@ -26,22 +26,23 @@
 
 ## 📜 My Certifications
 
-<p align="center">
+<p>
   <a href="https://www.credly.com/badges/cb98ca42-ecc9-4329-b0b7-83487b1210a3/public_url" target="_blank">
-    <img src="https://github.com/geobaas/geobaas/blob/main/ccna-introduction-to-networks.png?raw=true" width="140" alt="CCNA Introduction to Networks"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Ver_Certificado-CCNA-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 1"/>
+    <img src="https://img.shields.io/badge/Ver_Certificado-1-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 1"/>
   </a>
-  &emsp;&emsp;&emsp;&emsp;
+  &emsp;
   <a href="https://www.credly.com/badges/00f6f2bc-d738-4f12-aa63-ec190d63a289/public_url" target="_blank">
-    <img src="https://github.com/geobaas/geobaas/blob/main/data-analytics-essentials.png?raw=true" width="140" alt="Data Analytics Essentials"/>
-    <br><br>
-    <img src="![Uploading ccna-introduction-to-networks.png…]()
-"/>
+    <img src="https://img.shields.io/badge/Ver_Certificado-2-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 2"/>
   </a>
 </p>
 
 <br>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="left">
+	<a href="https://github.com/GeovannyBaas"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="left">
