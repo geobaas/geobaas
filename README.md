@@ -36,7 +36,8 @@
   <a href="https://www.credly.com/badges/00f6f2bc-d738-4f12-aa63-ec190d63a289/public_url" target="_blank">
     <img src="https://github.com/geobaas/geobaas/blob/main/data-analytics-essentials.png?raw=true" width="140" alt="Data Analytics Essentials"/>
     <br><br>
-    <img src="https://img.shields.io/badge/Ver_Certificado-Data_Analytics-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 2"/>
+    <img src="![Uploading ccna-introduction-to-networks.png…]()
+"/>
   </a>
 </p>
 
