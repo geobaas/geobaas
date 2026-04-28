@@ -26,13 +26,17 @@
 
 ## 📜 My Certifications
 
-<p>
+<p align="center">
   <a href="https://www.credly.com/badges/cb98ca42-ecc9-4329-b0b7-83487b1210a3/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Certificado-1-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 1"/>
+    <img src="https://github.com/geobaas/geobaas/blob/main/ccna-introduction-to-networks.png?raw=true" width="140" alt="CCNA Introduction to Networks"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Ver_Certificado-CCNA-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 1"/>
   </a>
-  &emsp;
+  &emsp;&emsp;&emsp;&emsp;
   <a href="https://www.credly.com/badges/00f6f2bc-d738-4f12-aa63-ec190d63a289/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Certificado-2-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 2"/>
+    <img src="https://github.com/geobaas/geobaas/blob/main/data-analytics-essentials.png?raw=true" width="140" alt="Data Analytics Essentials"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Ver_Certificado-Data_Analytics-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Cert 2"/>
   </a>
 </p>
 
